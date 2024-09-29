@@ -23,12 +23,13 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chen Zirui"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/him" 
+  bio              : "Undergraduate student of department of statistics and data science
+  School of economy, Xiamen University"
+  location         : "Fujian China"
+  employer         : "Xiamen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "czray0108@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
