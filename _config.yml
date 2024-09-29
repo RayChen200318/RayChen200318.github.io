@@ -12,7 +12,7 @@ title                    : "Chen Zirui / Introduction"
 title_separator          : "-"
 name                     : &name "Chen Zirui"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://raychen200318.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Personal Picture.png"
   name             : "Chen Zirui"
   pronouns         : # "he/him" 
   bio              : "Undergraduate student of department of statistics and data science, School of economy, Xiamen University"
