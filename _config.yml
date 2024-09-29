@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chen Zirui"
-  pronouns         #: "he/him" 
+  pronouns         : # "he/him" 
   bio              : "Undergraduate student of department of statistics and data science, School of economy, Xiamen University"
   location         : "Fujian, China"
   employer         : "Xiamen University"
