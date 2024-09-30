@@ -25,23 +25,16 @@ Projects and Researches
 <div style="display: flex; justify-content: space-between;">
   <span>June 2023 - Present</span>
   <span>Research Assistant</span>
-</div>
+</div>  
 
-**· Literature Review:** Search for, read, and summarize academic literature related to the research topic to help determine research directions and methodologies.
-
-**· Data Collection:** Collect required data from databases, experiments, or surveys, ensuring data integrity and accuracy.
-
-**· Data Analysis:** Use tools like R and Python to clean, analyze, and visualize data to derive meaningful conclusions.
-
-**· Coding and Maintenance:** Develop algorithms and models for research projects to implement the necessary experimental functions.
-
-**· Assisting in Paper Writing:** Participate in the writing and editing of academic papers, including drafting manuscripts, creating figures, and organizing references.
-
-**· Meeting Participation:** Regularly attend research group meetings to report work progress, discuss research issues, and plan next steps.
-
-**· Communication and Collaboration:** Communicate with team members and other researchers to promote information sharing and collaboration.
-
-**· Teaching Assistance:** Assist the professor in preparing course materials and guiding students in completing related tasks.
+**· Literature Review:** Search for, read, and summarize academic literature related to the research topic to help determine research directions and methodologies.<br>
+**· Data Collection:** Collect required data from databases, experiments, or surveys, ensuring data integrity and accuracy.<br>
+**· Data Analysis:** Use tools like R and Python to clean, analyze, and visualize data to derive meaningful conclusions.<br>
+**· Coding and Maintenance:** Develop algorithms and models for research projects to implement the necessary experimental functions.<br>
+**· Assisting in Paper Writing:** Participate in the writing and editing of academic papers, including drafting manuscripts, creating figures, and organizing references.<br>
+**· Meeting Participation:** Regularly attend research group meetings to report work progress, discuss research issues, and plan next steps.<br>
+**· Communication and Collaboration:** Communicate with team members and other researchers to promote information sharing and collaboration.<br>
+**· Teaching Assistance:** Assist the professor in preparing course materials and guiding students in completing related tasks.<br>
 
 Site-wide configuration
 ------
