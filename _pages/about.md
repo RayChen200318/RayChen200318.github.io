@@ -26,7 +26,8 @@ Projects and Researches
   <span>June 2023 - Present</span>
   <span>Research Assistant</span>
 </div>  
-
+<br>
+<br>
 **· Literature Review:** Search for, read, and summarize academic literature related to the research topic to help determine research directions and methodologies.<br>
 **· Data Collection:** Collect required data from databases, experiments, or surveys, ensuring data integrity and accuracy.<br>
 **· Data Analysis:** Use tools like R and Python to clean, analyze, and visualize data to derive meaningful conclusions.<br>
@@ -35,6 +36,18 @@ Projects and Researches
 **· Meeting Participation:** Regularly attend research group meetings to report work progress, discuss research issues, and plan next steps.<br>
 **· Communication and Collaboration:** Communicate with team members and other researchers to promote information sharing and collaboration.<br>
 **· Teaching Assistance:** Assist the professor in preparing course materials and guiding students in completing related tasks.<br>
+<br>
+<div style="display: flex; justify-content: space-between;">
+  <span>March 2024 - June 2024</span>
+  <span>Peer Teaching Assistant</span>
+</div>  
+<br>
+<br>
+**· Provided Personalized Guidance:** Offered one-on-one consultations for students who needed extra help, tailoring my assistance to their individual learning needs.<br>
+**· Developed Supplemental Resources:** Created additional study guides, problem sets, and solution manuals to support students outside of class hours.<br>
+**· Encouraged Peer Collaboration:** Facilitated study groups among students to promote collaborative learning and peer support.<br>
+
+
 
 Site-wide configuration
 ------
