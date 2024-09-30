@@ -56,15 +56,17 @@ During this period, I worked as a research assistant (RA) for [Prof. Liu Jingyua
 Researches and Projects
 ======
 
-Estimation and Selection of Spatial Weight Matrices Using Linear Quadratic Forms
+Estimation and Selection of Spatial Weight Matrices Using Linear Quadratic Instrumental Variables
 ------
 Building upon recent developments in spatial econometric models that address the misspecification of spatial weight matrices through adaptive LASSO techniques, my research aims to enhance the selection of instrumental variables within this framework. Specifically, I introduce linear quadratic forms of instrumental variables to improve the estimation properties of the model. This approach seeks to refine the estimation process by leveraging more informative instruments, thereby achieving better convergence rates and oracle properties. By incorporating these advanced IV selection methods, my work contributes to a more robust and efficient unified framework for the estimation and selection of spatial weight matrices in spatial econometric analysis.
 
 
-
-Create content & metadata
+A Robust Model-free Bayesian Classifier
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Numerous algorithms have been developed for classification tasks in machine learning, with the Naive Bayes classifier (NBC) being one of the simplest. Despite its effectiveness, NBC's assumptions of attribute independence and normal distribution are often violated. Bayesian networks (BN) model relationships between attributes but require complex, NP-hard training and rely on prior probability distributions, which can lead to poor performance if mismatched with the data. I applied Principal Component Analysis (PCA) for data preprocessing and used cross-validation to select the optimal number of principal components. I also estimated prior probabilities using M-estimation to enhance model robustness. This led to the development of the robust model-free Bayesian classifier (RMFBC). Testing RMFBC on several UCI datasets, I found it outperformed NBC in all cases and surpassed BN in some cases. This concludes that RMFBC offers a competitive alternative for datasets with non-normal distributions and high-dimensional, highly correlated attributes.
+
+
+
 
 **Markdown generator**
 
