@@ -22,8 +22,9 @@ I am currently working on a research project in Spatial Statistics and continuin
 
 Projects and Researches
 ======
-<div align="right">
-**Research Assistant**
+<div style="display: flex; justify-content: space-between;">
+  <span>June 2023 - Present</span>
+  <span>Research Assistant</span>
 </div>
 
 Site-wide configuration
