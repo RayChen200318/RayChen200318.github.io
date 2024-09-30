@@ -5,15 +5,9 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Academic Background and Skills"
-    url: /Academic Background and Skills/
+  - title: "portfolio"
+    url: /portfolio/
 
-  - title: "Professional Experiences"
-    url: /Professional Experiences/    
-    
-  - title: "Researches and Projects"
-    url: /Researches and Projects/
-        
   - title: "CV"
     url: /cv/
     
