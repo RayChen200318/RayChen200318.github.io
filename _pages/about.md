@@ -20,7 +20,7 @@ I am proficient in using R and Python for data processing and analysis. I have u
 I am currently working on a research project in Spatial Statistics and continuing to enhance my knowledge through graduate-level courses in **Artificial Intelligence and Machine Learning**, **Large Sample Theory**, and **Advanced Econometrics**.
 
 
-Work Experiences
+Professional Experiences
 ======
 <div style="display: flex; justify-content: space-between;">
   <span>June 2023 - Present</span>
@@ -35,7 +35,6 @@ During this period, I worked as a research assistant (RA) for [Prof. Xu Xingbai]
 **· Coding and Maintenance:** Develop algorithms and models for research projects to implement the necessary experimental functions.<br>
 **· Assisting in Paper Writing:** Participate in the writing and editing of academic papers, including drafting manuscripts, creating figures, and organizing references.<br>
 **· Meeting Participation:** Regularly attend research group meetings to report work progress, discuss research issues, and plan next steps.<br>
-**· Communication and Collaboration:** Communicate with team members and other researchers to promote information sharing and collaboration.<br>
 **· Teaching Assistance:** Assist the professor in preparing course materials and guiding students in completing related tasks.<br>
 <br>
 <div style="display: flex; justify-content: space-between;">
@@ -43,7 +42,7 @@ During this period, I worked as a research assistant (RA) for [Prof. Xu Xingbai]
   <span>Peer Teaching Assistant</span>
 </div>  
 <br>
-During this course, I worked as a peer teaching assistant for the course **Real Analysis**. My responsibilities include:
+I worked as a peer teaching assistant for the course **Real Analysis**. My responsibilities include:
 <br>
 **· Provided Personalized Guidance:** Offered one-on-one consultations for students who needed extra help, tailoring my assistance to their individual learning needs.<br>
 **· Developed Supplemental Resources:** Created additional study guides, problem sets, and solution manuals to support students outside of class hours.<br>
