@@ -21,12 +21,10 @@ I am currently working on a research project in Spatial Statistics and continuin
 
 
 Projects and Researches
+======
 <div align="right">
 **Research Assistant**
 </div>
-
-======
-
 
 Site-wide configuration
 ------
