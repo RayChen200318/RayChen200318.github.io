@@ -13,10 +13,11 @@ I'm very fortunate to be advised by [Prof. Xu Xingbai](https://faculty.xmu.edu.c
 
 Academic Background and Skills
 ======
-During my undergraduate studies, I earned A+ grades in Real Analysis, Advanced Algebra, C Programming, Differential Equations and A in most core courses, including Mathematical analysis, Probability theory, mathematical statistics, Stochastic Processes, Time Series Analysis, Bayesian Statistics, etc. 
+During my undergraduate studies, I earned A+ grades in **Real Analysis**, **Advanced Algebra**, **C Programming**, **Differential Equations** and A in most core courses, including **Mathematical Analysis**, **Probability Theory**, **Mathematical Statistics**, **Stochastic Processes**, **Time Series Analysis**, **Bayesian Statistics**, etc. 
 
-I am proficient in using R and Python for data processing and analysis
-I am currently working on a research project in Spatial Statistics and continuing to enhance my knowledge through graduate-level courses in Artificial Intelligence and Machine Learning, Large Sample Theory, and Advanced Econometrics.
+I am proficient in using R and Python for data processing and analysis. I have uploaded most of my coursework and code from core courses to GitHub. Notably, this includes the **Robust Model-free Bayesian Classifier** I developed and the replication code for the paper _Estimation and Selection of a Spatial Lag Model_.
+
+I am currently working on a research project in Spatial Statistics and continuing to enhance my knowledge through graduate-level courses in **Artificial Intelligence and Machine Learning**, **Large Sample Theory**, and **Advanced Econometrics**.
 
 
 Projects and Researches
