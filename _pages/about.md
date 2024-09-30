@@ -20,7 +20,7 @@ I am proficient in using R and Python for data processing and analysis. I have u
 I am currently working on a research project in Spatial Statistics and continuing to enhance my knowledge through graduate-level courses in **Artificial Intelligence and Machine Learning**, **Large Sample Theory**, and **Advanced Econometrics**.
 
 
-Projects and Researches
+Work Experiences
 ======
 <div style="display: flex; justify-content: space-between;">
   <span>June 2023 - Present</span>
@@ -48,11 +48,13 @@ During this period, I worked as a research assistant (RA) for [Prof. Xu Xingbai]
 <br>
 <div style="display: flex; justify-content: space-between;">
   <span>July 2024 - September 2024</span>
-  <span>Peer Teaching Assistant</span>
+  <span>Re</span>
 </div>  
 <br>
 During this period, I worked as a research assistant (RA) for [Prof. Liu Jingyuan](https://faculty.xmu.edu.cn/LJY/zh_CN/index.htm). My work involved translating the Chinese subtitles of Professor Liu's online courses into English.
 
+Researches and Projects
+======
 
 Site-wide configuration
 ------
