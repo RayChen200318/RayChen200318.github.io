@@ -28,6 +28,7 @@ Work Experiences
 </div>  
 <br>
 During this period, I worked as a research assistant (RA) for [Prof. Xu Xingbai](https://faculty.xmu.edu.cn/XXB/zh_CN/index.htm). My responsibilities include:
+<br>
 **· Literature Review:** Search for, read, and summarize academic literature related to the research topic to help determine research directions and methodologies.<br>
 **· Data Collection:** Collect required data from databases, experiments, or surveys, ensuring data integrity and accuracy.<br>
 **· Data Analysis:** Use tools like R and Python to clean, analyze, and visualize data to derive meaningful conclusions.<br>
@@ -41,6 +42,8 @@ During this period, I worked as a research assistant (RA) for [Prof. Xu Xingbai]
   <span>March 2024 - June 2024</span>
   <span>Peer Teaching Assistant</span>
 </div>  
+<br>
+During this course, I worked as a peer teaching assistant for the course **Real Analysis**. My responsibilities include:
 <br>
 **· Provided Personalized Guidance:** Offered one-on-one consultations for students who needed extra help, tailoring my assistance to their individual learning needs.<br>
 **· Developed Supplemental Resources:** Created additional study guides, problem sets, and solution manuals to support students outside of class hours.<br>
@@ -59,27 +62,11 @@ Researches and Projects
 Estimation and Selection of Spatial Weight Matrices Using Linear Quadratic Instrumental Variables
 ------
 Building upon recent developments in spatial econometric models that address the misspecification of spatial weight matrices through adaptive LASSO techniques, my research aims to enhance the selection of instrumental variables within this framework. Specifically, I introduce linear quadratic forms of instrumental variables to improve the estimation properties of the model. This approach seeks to refine the estimation process by leveraging more informative instruments, thereby achieving better convergence rates and oracle properties. By incorporating these advanced IV selection methods, my work contributes to a more robust and efficient unified framework for the estimation and selection of spatial weight matrices in spatial econometric analysis.
-
+<br>
+My research proposal for this project is available at (link), with some core code available at (link).
 
 A Robust Model-free Bayesian Classifier
 ------
 Numerous algorithms have been developed for classification tasks in machine learning, with the Naive Bayes classifier (NBC) being one of the simplest. Despite its effectiveness, NBC's assumptions of attribute independence and normal distribution are often violated. Bayesian networks (BN) model relationships between attributes but require complex, NP-hard training and rely on prior probability distributions, which can lead to poor performance if mismatched with the data. I applied Principal Component Analysis (PCA) for data preprocessing and used cross-validation to select the optimal number of principal components. I also estimated prior probabilities using M-estimation to enhance model robustness. This led to the development of the robust model-free Bayesian classifier (RMFBC). Testing RMFBC on several UCI datasets, I found it outperformed NBC in all cases and surpassed BN in some cases. This concludes that RMFBC offers a competitive alternative for datasets with non-normal distributions and high-dimensional, highly correlated attributes.
-
-
-
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<br>
+The full article on this project can be found at (link), with additional core code available at (link).
