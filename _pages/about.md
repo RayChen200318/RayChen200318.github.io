@@ -48,7 +48,7 @@ During this period, I worked as a research assistant (RA) for [Prof. Xu Xingbai]
 <br>
 <div style="display: flex; justify-content: space-between;">
   <span>July 2024 - September 2024</span>
-  <span>Re</span>
+  <span>Research Assistant</span>
 </div>  
 <br>
 During this period, I worked as a research assistant (RA) for [Prof. Liu Jingyuan](https://faculty.xmu.edu.cn/LJY/zh_CN/index.htm). My work involved translating the Chinese subtitles of Professor Liu's online courses into English.
@@ -56,9 +56,11 @@ During this period, I worked as a research assistant (RA) for [Prof. Liu Jingyua
 Researches and Projects
 ======
 
-Site-wide configuration
+Estimation and Selection of Spatial Weight Matrices Using Linear Quadratic Forms
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Building upon recent developments in spatial econometric models that address the misspecification of spatial weight matrices through adaptive LASSO techniques, my research aims to enhance the selection of instrumental variables within this framework. Specifically, I introduce linear quadratic forms of instrumental variables to improve the estimation properties of the model. This approach seeks to refine the estimation process by leveraging more informative instruments, thereby achieving better convergence rates and oracle properties. By incorporating these advanced IV selection methods, my work contributes to a more robust and efficient unified framework for the estimation and selection of spatial weight matrices in spatial econometric analysis.
+
+
 
 Create content & metadata
 ------
