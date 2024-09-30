@@ -62,10 +62,10 @@ Estimation and Selection of Spatial Weight Matrices Using Linear Quadratic Instr
 ------
 Building upon recent developments in spatial econometric models that address the misspecification of spatial weight matrices through adaptive LASSO techniques, my research aims to enhance the selection of instrumental variables within this framework. Specifically, I introduce linear quadratic forms of instrumental variables to improve the estimation properties of the model. This approach seeks to refine the estimation process by leveraging more informative instruments, thereby achieving better convergence rates and oracle properties. By incorporating these advanced IV selection methods, my work contributes to a more robust and efficient unified framework for the estimation and selection of spatial weight matrices in spatial econometric analysis.
 <br>
-My research proposal for this project is available at (link), with some core code available at (link).
+The research proposal and core codes on this project can be found at ([link](https://github.com/RayChen200318/Estimation-and-Selection-of-Spatial-Weight-Matrices-Using-Linear-Quadratic-Instrumental-Variables)).
 
 A Robust Model-free Bayesian Classifier
 ------
 Numerous algorithms have been developed for classification tasks in machine learning, with the Naive Bayes classifier (NBC) being one of the simplest. Despite its effectiveness, NBC's assumptions of attribute independence and normal distribution are often violated. Bayesian networks (BN) model relationships between attributes but require complex, NP-hard training and rely on prior probability distributions, which can lead to poor performance if mismatched with the data. I applied Principal Component Analysis (PCA) for data preprocessing and used cross-validation to select the optimal number of principal components. I also estimated prior probabilities using M-estimation to enhance model robustness. This led to the development of the robust model-free Bayesian classifier (RMFBC). Testing RMFBC on several UCI datasets, I found it outperformed NBC in all cases and surpassed BN in some cases. This concludes that RMFBC offers a competitive alternative for datasets with non-normal distributions and high-dimensional, highly correlated attributes.
 <br>
-The full article on this project can be found at (link), with additional core code available at (link).
+The full article and core codes on this project can be found at ([link](https://github.com/RayChen200318/A-robust-model-free-Bayesian-classifier)).
