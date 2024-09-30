@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of Economics](https://soe.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/). My research interest includes data science, machine learning, spatial statistics and Bayesian statistics.
+I'm a fourth year undergraduate student from [School of Economics](https://soe.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/). My research interest includes causal Inference, machine learning, spatial statistics and Bayesian statistics.
 
 I'm very fortunate to be advised by [Prof. Xu Xingbai](https://faculty.xmu.edu.cn/XXB/zh_CN/index.htm) from [School of Economics](https://soe.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/).
 
