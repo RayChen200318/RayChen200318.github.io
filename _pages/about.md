@@ -27,7 +27,6 @@ Projects and Researches
   <span>Research Assistant</span>
 </div>  
 <br>
-<br>
 **· Literature Review:** Search for, read, and summarize academic literature related to the research topic to help determine research directions and methodologies.<br>
 **· Data Collection:** Collect required data from databases, experiments, or surveys, ensuring data integrity and accuracy.<br>
 **· Data Analysis:** Use tools like R and Python to clean, analyze, and visualize data to derive meaningful conclusions.<br>
@@ -41,7 +40,6 @@ Projects and Researches
   <span>March 2024 - June 2024</span>
   <span>Peer Teaching Assistant</span>
 </div>  
-<br>
 <br>
 **· Provided Personalized Guidance:** Offered one-on-one consultations for students who needed extra help, tailoring my assistance to their individual learning needs.<br>
 **· Developed Supplemental Resources:** Created additional study guides, problem sets, and solution manuals to support students outside of class hours.<br>
