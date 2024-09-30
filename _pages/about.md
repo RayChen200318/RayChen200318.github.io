@@ -58,7 +58,7 @@ During this period, I worked as a research assistant (RA) for [Prof. Liu Jingyua
 Researches and Projects
 ======
 
-Estimation and Selection of Spatial Weight Matrices Using Linear Quadratic Instrumental Variables
+Estimation and Selection of Spatial Weight Model Using Linear Quadratic Instrumental Variables
 ------
 Building upon recent developments in spatial econometric models that address the misspecification of spatial weight matrices through adaptive LASSO techniques, my research aims to enhance the selection of instrumental variables within this framework. Specifically, I introduce linear quadratic forms of instrumental variables to improve the estimation properties of the model. This approach seeks to refine the estimation process by leveraging more informative instruments, thereby achieving better convergence rates and oracle properties. By incorporating these advanced IV selection methods, my work contributes to a more robust and efficient unified framework for the estimation and selection of spatial weight matrices in spatial econometric analysis.
 <br>
